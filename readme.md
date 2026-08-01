@@ -1,28 +1,14 @@
 <div align="center">
 
-![Dhina Bharani banner](./profile-banner.svg)
-
-# Hi 👋, I'm <span style="color:#14b8a6">DHINA BHARANI</span>
-
-### `$ whoami --professional`
-
-### Software Engineer | Front-End & React.js Developer
-
-<br/>
-
-| | |
-|---|---|
-| 📍 **Location** | Coimbatore, Tamil Nadu, India |
-| 🛠️ **Stack** | HTML5, CSS3, JavaScript, React.js, MySQL |
-| 🎯 **Current Focus** | Front-End Development & Responsive UI |
-| 💻 **GitHub** | [github.com/Dhinabharani](https://github.com/Dhinabharani) |
-| 💼 **LinkedIn** | [linkedin.com/in/dhinabharani](https://linkedin.com/in/dhinabharani) |
-| 🧩 **LeetCode** | [leetcode.com/u/Dhinabharani](https://leetcode.com/u/Dhinabharani) |
-| 📧 **Email** | dhinabharani8@gmail.com |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Dhina Bharani banner" src="dark.svg" width="100%">
+</picture>
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
