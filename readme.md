@@ -1,231 +1,69 @@
-````markdown
 <div align="center">
 
-# 🚀 DHINA BHARANI
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Front-End+Developer;React.js+Developer;JavaScript+Enthusiast;Future+Full+Stack+Engineer" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dhinabharani&label=Profile+Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Dhinabharani?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Dhinabharani?affiliations=OWNER&style=social)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Dhina Bharani banner" src="dark.svg" width="100%">
+</picture>
 
 </div>
 
----
+<br/>
 
-# 🛰 Mission Control
+## 🚀 About Me
 
-```text
-██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗
-██╔══██╗██║  ██║██║████╗  ██║██╔══██╗
-██║  ██║███████║██║██╔██╗ ██║███████║
-██║  ██║██╔══██║██║██║╚██╗██║██╔══██║
-██████╔╝██║  ██║██║██║ ╚████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+- 💻 Computer Science & Engineering graduate passionate about front-end development
+- 🔭 Currently building clean, responsive, user-friendly interfaces with **React.js**
+- 🌱 Strengthening skills in **JavaScript**, **SQL**, and modern front-end workflows
+- 🎯 Goal: Grow into a strong full-stack developer
+- 🤝 Open to front-end / web development collaboration opportunities
 
-SYSTEM BOOT ............. COMPLETE
-ACCESS LEVEL ............ GRANTED
+## 🧠 What I Do
 
-USER     : Dhina Bharani
-ROLE     : Front-End / React.js Developer
-STATUS   : ACTIVE
+- ✨ Build responsive, cross-browser web interfaces
+- 🎨 Convert design mockups into pixel-perfect, user-friendly pages
+- ⚡ Work with HTML5, CSS3, JavaScript & Bootstrap
+- 🗄️ Handle data with MySQL
+- 🚀 Collaborate with teams to debug, optimize, and ship features
 
-MISSION  : Become a Full Stack Engineer
+## 🛠️ Skills
 
-Fuel        ████████░░ 80%
-HTML/CSS    ██████████ 100%
-JavaScript  █████████░ 90%
-React.js    ████████░░ 80%
-Node.js     ███████░░░ 70%
-MySQL       ███████░░░ 70%
-MongoDB     ██████░░░░ 60%
-```
+**Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
----
+**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-# > whoami
+**Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-```bash
-$ whoami
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Name      : Dhina Bharani
-Education : B.E Computer Science & Engineering
-Location  : Chennai, India
-Status    : Learning • Building • Growing
-```
+## 💼 Experience
 
-💻 Passionate about creating clean, responsive and interactive web applications.
+- **Front-end Development Intern** — DreamsPlus Consulting Pvt. Ltd, Chennai *(Aug 2024 – Sep 2024)*
+- **Web Development, Company Placement** — Anand Techverce LLP, Chennai *(Jan 2025 – May 2025)*
+- **Web Development** — Webdoux, Chennai *(Pursuing)*
 
-🚀 Currently building projects using **React.js**, **JavaScript**, and modern front-end technologies.
+## 📌 Featured Projects
 
-🌱 Learning **Node.js**, **MongoDB**, and the **MERN Stack**.
+- **Intelligent Grocery Control System** — HTML, CSS, JavaScript, Python, Django, MySQL — smart inventory tracker that predicts shopping needs and flags expiring items
+- **Simple Web-page Creation** — HTML5, CSS3, JavaScript, Bootstrap — a clean, responsive landing page
 
-🎯 Goal: Become a skilled Full Stack Developer.
+## 🎓 Education
 
-🤝 Open to internships, freelance work, and collaboration.
+- **B.E. Computer Science & Engineering** — United Institute of Technology, Anna University *(2022 – 2025)*, CGPA 7.9
+- **Diploma in Mechanical Engineering** — Najailingammal Polytechnic *(2020 – 2022)*, 92%
 
----
+## 🏆 Certifications
 
-# > skills --list
+- Network Essentials — Naan Mudhalvan, CISCO
+- 3rd Prize — International Conference on Technologies
 
-### Frontend
+## 🌐 Connect With Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinabharani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhinabharani)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhinabharani)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinabharani8@gmail.com)
 
 ---
 
-# > experience.log
-
-```bash
-[2024]
-✔ Front-End Development Intern
-DreamsPlus Consulting Pvt. Ltd.
-Aug 2024 – Sep 2024
-
-[2025]
-✔ Web Development
-Anand Techverce LLP
-Jan 2025 – May 2025
-
-[Current]
-✔ Web Development
-Webdoux
-```
-
----
-
-# > projects/
-
-### Intelligent Grocery Control System
-
-```yaml
-Stack:
-  - HTML
-  - CSS
-  - JavaScript
-  - Python
-  - Django
-  - MySQL
-
-Description:
-Smart inventory management system that predicts grocery requirements
-and detects products nearing expiry.
-```
-
----
-
-### Responsive Landing Page
-
-```yaml
-Stack:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Bootstrap
-
-Description:
-Modern responsive landing page with mobile-first design.
-```
-
----
-
-# > education.json
-
-```json
-{
-  "B.E Computer Science & Engineering": {
-    "University": "Anna University",
-    "College": "United Institute of Technology",
-    "Duration": "2022 - 2025",
-    "CGPA": "7.9"
-  },
-
-  "Diploma in Mechanical Engineering": {
-    "College": "Najailingammal Polytechnic",
-    "Duration": "2020 - 2022",
-    "Percentage": "92%"
-  }
-}
-```
-
----
-
-# > achievements
-
-```text
-✔ Network Essentials
-  └── Naan Mudhalvan | Cisco
-
-✔ 3rd Prize
-  └── International Conference on Technologies
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhinabharani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinabharani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhinabharani&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# > connect
-
-<p align="center">
-
-<a href="https://github.com/Dhinabharani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Dhinabharani/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhina-bharani-b5a313285/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-```bash
-$ exit
-
-Mission Status : ACTIVE
-Current Target : Full Stack Developer
-
-Thanks for visiting my profile 🚀
-```
-````
+⭐ From **Dhina Bharani** | Front-End & React.js Developer
